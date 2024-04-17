@@ -1,4 +1,4 @@
-# pokemon-backend-setup
+# Pokemon Backend Setup
 
 To install dependencies:
 
